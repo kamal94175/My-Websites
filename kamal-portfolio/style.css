@@ -386,6 +386,7 @@ nav ul li a{
 	   nav ul li a {
 	   	padding: 0 5px;
 	   }
+}
 @media (max-width: 600px){
 	.homered{
 		display: none;
